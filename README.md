@@ -4,6 +4,7 @@ Universal Receiver
 This project imlements a universal receiver using an arduino.
 
 Requirements:
+
 1. Arduino.
 2. IR receiver.
 3. linux desktop with xdotool installed.
