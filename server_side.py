@@ -1,3 +1,13 @@
+'''
+Server side of the IR receiver.
+
+This python script reads the output from the arduino
+and compares it to the recorded codes.
+When there is a match, the matching key is pressed using
+xdotool.
+
+Author: Barak Hadad
+'''
 
 import sys
 import serial
